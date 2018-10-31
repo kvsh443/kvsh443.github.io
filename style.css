@@ -1,4 +1,10 @@
 .intro
 {
 	background-image: url(https://66.media.tumblr.com/c2ed355b7553ed769f308852e1a229b2/tumblr_nwu0szJzh31swst14o1_500.gif);
+	background-attachment: fixed;
+	position: relative;
+	overflow: hidden;
+	width: 100%;
+	height: 100vh;
+	background-size: cover;
 }
